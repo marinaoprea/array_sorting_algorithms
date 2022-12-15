@@ -8,3 +8,5 @@ The Bubble Sort algorithm sorts the array in ascending order.
 
 The algorithm is implemented in C.# Sorting algorithms for beginners
 We implement 3 sorting algorithms for integer arrays.
+
+I use it for idst lab
